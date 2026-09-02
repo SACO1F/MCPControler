@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🏠 MultiAgentSystem
+# 🏠 MCPControler
 
 **基于 Model Context Protocol (MCP) 的智能家居多智能体控制系统**
 
