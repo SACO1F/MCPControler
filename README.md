@@ -62,7 +62,7 @@ flowchart LR
 ### 1. 安装
 
 ```bash
-git clone https://github.com/Ada-Junk/MultiAgentSystem.git
+git clone https://github.com/SACO1F/MCPControler.git
 cd MultiAgentSystem
 
 # 创建虚拟环境并安装依赖（二选一）
